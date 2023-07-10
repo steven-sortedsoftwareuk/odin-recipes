@@ -14,10 +14,22 @@ h1 {
 }
 button {
     font-style: italic;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
+    align-items: center;
 }
 
 .main-list {
     font: small-caps;
+    text-decoration: wavy;
+}
+
+:visited {
+    color: white;
+}
+
+#image {
+    border: 4px;
+    border-color: black;
+    align-items: center;
 }
