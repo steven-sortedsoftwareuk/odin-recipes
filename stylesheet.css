@@ -7,3 +7,8 @@ h1 {
     text-align: center;
     text-emphasis-color: red;
 }
+
+.list {
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
