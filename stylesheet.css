@@ -24,6 +24,7 @@ button {
     text-decoration: wavy;
 }
 
+button 
 :visited {
     color: white;
     background-color: black;
