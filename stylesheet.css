@@ -24,8 +24,7 @@ button {
     text-decoration: wavy;
 }
 
-button 
-:visited {
+.button:visited {
     color: white;
     background-color: black;
 }
