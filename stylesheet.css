@@ -12,3 +12,12 @@ h1 {
     font-style: normal;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+button {
+    font-style: italic;
+    background-color: black;
+    color: white;
+}
+
+.main-list {
+    font: small-caps;
+}
